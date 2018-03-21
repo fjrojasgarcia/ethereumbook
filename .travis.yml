@@ -2,6 +2,7 @@ install: true
 
 script:
 - echo "Hi 1"
+- hunspell -d en_GB -l wallets.asciidoc | sort | uniq > unrecognized-words
 - echo "Hi 2"
 
 
