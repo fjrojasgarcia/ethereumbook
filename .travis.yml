@@ -1,10 +1,9 @@
 before_install:
   - sudo apt-get -qq update
-  - sudo apt-get install -y hunspell hunspell-en-gb
 
 script:
 - echo "Hi 1"
-- hunspell -d en_GB -p ./tools/spell-checker/spell-check-recognized-words -l wallets.asciidoc
+- hunspell -p ./tools/spell-checker/spell-check-recognized-words -l wallets.asciidoc
 - echo "Hi 2"
 
 
