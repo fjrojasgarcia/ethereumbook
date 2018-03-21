@@ -8,4 +8,7 @@ script:
 - hunspell -p ./tools/spell-checker/spell-check-recognized-words -l wallets.asciidoc
 - echo "Hi 2"
 
+notifications:
+  email: false
+
 
