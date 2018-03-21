@@ -4,6 +4,7 @@ before_install:
 
 script:
 - echo "Hi 1"
+- ls -l ./tools/spell-checker
 - hunspell -p ./tools/spell-checker/spell-check-recognized-words -l wallets.asciidoc
 - echo "Hi 2"
 
