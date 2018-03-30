@@ -5,10 +5,18 @@ License: CC BY-SA 4.0
 Added By: @fjrojasgarcia
 ////
 
-[yellowpaper]
-= The "Yellow Paper": Comprehension guide
+[yellowpaper-guide]
+= The "Yellow Paper" comprehension guide
 
 This guide is designed to facilitate access and understanding of this important document.
+
+== Title, Version and Author
+
+Title: *Ethereum: A secure decentralised generalised transaction ledger*
+
+Version: *BYZANTIUM Version fadb37b - 2018-03-20*
+
+Author: *Dr. Gavin Wood - Founder of Ethereum & Parity - gavin@parity.io*
 
 == Ethereum's formal specification
 
@@ -20,4 +28,10 @@ They describe the Ethereum protocol, analyze its behavior, and aid in its design
 
 These specifications are formal in the sense that they have a syntax and their semantics fall within one domain.
 
+== Introduction
 
+Simplification of the introduction to Yellow Paper.
+
+== The Blockchain Paradigm
+
+Simplification of The Blockchain Paradigm.
