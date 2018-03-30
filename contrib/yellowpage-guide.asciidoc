@@ -28,10 +28,98 @@ They describe the Ethereum protocol, analyze its behavior, and aid in its design
 
 These specifications are formal in the sense that they have a syntax and their semantics fall within one domain.
 
+== Abstract explained
+
+TODO
+
 == Introduction
 
-Simplification of the introduction to Yellow Paper.
+TODO
 
 == The Blockchain Paradigm
 
-Simplification of The Blockchain Paradigm.
+TODO
+
+== Conventions
+
+TODO
+
+== Blocks, State and Transactions
+
+TODO
+
+== Gas and Payment
+
+TODO
+
+== Transaction Execution
+
+TODO
+
+== Contract Creation
+
+TODO
+
+== Execution Model
+
+TODO
+
+== Blocktree to Blockchain
+
+TODO
+
+== Block Finalisation
+
+TODO
+
+== Implementing Contracts
+
+TODO
+
+== Future Directions
+
+TODO
+
+== Conclusion
+
+TODO
+
+== Availability
+
+TODO
+
+== Appendix B. Recursive Length Prefix
+
+TODO
+
+== Appendix D. Modified Merkle Patricia Tree
+
+TODO
+
+== Appendix E. Precompiled Contracts
+
+TODO
+
+== Appendix F. Signing Transactions
+
+TODO
+
+== Appendix G. Fee Schedule
+
+TODO
+
+== Appendix H. Virtual Machine Specification
+
+TODO
+
+== Appendix J. Ethash
+
+TODO
+
+== Appendix K. Anomalies on the Main Network
+
+TODO
+
+== Appendix L. List of mathematical symbols
+
+TODO
